@@ -7,3 +7,11 @@
 #logo {
 	height: 65px;
 	}
+@media screen and (min-width: 594px) {
+  #whatsapp {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    display: none;
+  }
+}
